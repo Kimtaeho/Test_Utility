@@ -1,5 +1,5 @@
 CC		= gcc
-CFLAGS		= -W -Wall -O2
+CFLAGS		= -W -Wall -O2 -g
 LDFLAGS		= -lm
 
 like : like.c love.c
